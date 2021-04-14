@@ -1,0 +1,27 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.Container {
+  display: flex;
+}
+
+.Spacer {
+  padding-left: 12px;
+}
+
+.SearchBar {
+  height: 38px;
+  border-width: 1px;
+  border-radius: 5px 0 0 5px;
+  font-size: 20px;
+}
+
+.SearchButton {
+  height: 42px;
+  width: 50px;
+  border: none;
+  border-radius: 0 5px 5px 0;
+  background-color: #bf0000;
+}
