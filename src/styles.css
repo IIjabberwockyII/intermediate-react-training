@@ -25,3 +25,11 @@
   border-radius: 0 5px 5px 0;
   background-color: #bf0000;
 }
+
+.Cart {
+  padding-left: 12px;
+  cursor: pointer;
+}
+.Cart > .text {
+  font-size: 12px;
+}
